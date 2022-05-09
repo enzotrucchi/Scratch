@@ -14,3 +14,4 @@ In this repository, you will find good documentation to start making games and f
  - Apples: https://scratch.mit.edu/projects/686676712/
  - Shark:   https://scratch.mit.edu/projects/686677998/ 
  - Laberint: https://scratch.mit.edu/projects/685001449/
+ - Pong: https://scratch.mit.edu/projects/687673103/
