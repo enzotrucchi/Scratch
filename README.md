@@ -1,17 +1,13 @@
 # Scratch
-Scratch 3 projects. Co-created with Genaro (8 y.o)
+Proyectos desarrollados con Genaro y Vito (8 y 6 años)
 
-In this repository, you will find good documentation to start making games and fun software in [Scratch](https://scratch.mit.edu/)
-
-
-## Requirements
+En este repositorio vas a encontrar tutoriales y videos sobre programación en [Scratch](https://scratch.mit.edu/)
 
 
-## How to start
 
-
-### Games
- - Apples: https://scratch.mit.edu/projects/686676712/
- - Shark:   https://scratch.mit.edu/projects/686677998/ 
- - Laberint: https://scratch.mit.edu/projects/685001449/
- - Pong: https://scratch.mit.edu/projects/687673103/
+### Juegos
+ 🎮 Apples: https://scratch.mit.edu/projects/686676712/
+ 🎮 Shark:   https://scratch.mit.edu/projects/686677998/ 
+ 🎮 Laberint: https://scratch.mit.edu/projects/685001449/
+ 🎮 Pong: https://scratch.mit.edu/projects/687673103/
+ 🎮 Arkanoid https://scratch.mit.edu/projects/716743612/
